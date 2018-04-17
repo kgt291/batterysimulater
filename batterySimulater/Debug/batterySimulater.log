@@ -1,0 +1,8 @@
+﻿  dualfoil.cpp
+c:\users\administrator\desktop\batterysimulater2\batterysimulater\dualfoil.cpp(435): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\administrator\desktop\batterysimulater2\batterysimulater\dualfoil.cpp(503): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\utility(200): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  c:\users\administrator\desktop\batterysimulater2\batterysimulater\dualfoil.cpp(547): note: 컴파일 중인 함수 템플릿 인스턴스화 'std::pair<float,int>::pair<double,int,void,0>(std::pair<double,int> &&) noexcept'에 대한 참조를 확인하십시오.
+  c:\users\administrator\desktop\batterysimulater2\batterysimulater\dualfoil.cpp(547): note: 컴파일 중인 함수 템플릿 인스턴스화 'std::pair<float,int>::pair<double,int,void,0>(std::pair<double,int> &&) noexcept'에 대한 참조를 확인하십시오.
+  batterySimulater.vcxproj -> C:\Users\Administrator\Desktop\batterySimulater2\Debug\batterySimulater.exe
+  batterySimulater.vcxproj -> C:\Users\Administrator\Desktop\batterySimulater2\Debug\batterySimulater.pdb (Partial PDB)
